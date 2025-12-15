@@ -58,14 +58,6 @@ Interactive encyclopedia of Indian districts with dynamic data visualizations an
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikslogy&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikslogy&layout=compact&theme=dark)
-
----
-
 ## 🎯 What I'm Currently Working On
 
 - Building scalable web applications with modern frameworks
